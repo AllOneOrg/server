@@ -1,0 +1,5 @@
+#approver for everything
+@FelipeHardmann
+
+#approver to .github files
+/.github/ @FelipeHardmann
