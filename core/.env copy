@@ -1,0 +1,7 @@
+[DATABASE]
+user = 
+passwd = 
+db = 
+host = 
+port = 
+JWT_SECRET = 
